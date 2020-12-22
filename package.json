@@ -1,0 +1,25 @@
+{
+    "name": "cpj-template-npm-package",
+    "version": "1.0.0",
+    "description": "My own npm package template",
+    "main": "template.json",
+    "scripts": {
+        "test": "echo \"no tests\""
+    },
+    "keywords": [
+        "create-project",
+        "@ando_ghevian/create-project",
+        "npm package",
+        "packages"
+    ],
+    "author": "Ando",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dmontee/cpj-template-npm-package.git"
+    },
+    "license": "ISC",
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
