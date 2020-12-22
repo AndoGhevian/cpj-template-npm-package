@@ -1,5 +1,5 @@
 {
-    "name": "cpj-template-npm-package",
+    "name": "@ando_ghevian/cpj-template-npm-package",
     "version": "1.0.0",
     "description": "My own npm package template",
     "main": "template.json",
